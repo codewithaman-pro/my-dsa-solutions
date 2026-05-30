@@ -13,7 +13,7 @@
  *   ## 📈 Daily Progress Log
 
     | Day | Topic Covered | Status |
-    | :--- | :--- | :--- |
+    | --- | --- | --- |
     | **Day 1** | Repo Setup & Initial Commits | Completed ✅ |
     | **Day 2** | *[Datasets Analysis]* | In Progress 🔄️ |
         
