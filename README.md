@@ -8,12 +8,12 @@
  *   **Editor:** Visual Studio Code 💻
  *   **Platform:** GitHub 🪼
 
- *   ---
+     ---
 
- *   ## 📈 Daily Progress Log
+    ## 📈 Daily Progress Log
 
     | Day | Topic Covered | Status |
-    | --- | --- | --- |
+    | :--- | :--- | :--- |
     | **Day 1** | Repo Setup & Initial Commits | Completed ✅ |
     | **Day 2** | *[Datasets Analysis]* | In Progress 🔄️ |
         
