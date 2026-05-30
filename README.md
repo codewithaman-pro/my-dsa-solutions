@@ -10,7 +10,7 @@
 
      ---
 
-    ## 📈 Daily Progress Log
+   * ## 📈 Daily Progress Log
 
     | Day | Topic Covered | Status |
     | :--- | :--- | :--- |
