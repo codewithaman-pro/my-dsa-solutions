@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(to right, #5b86e5, #36d1dc);
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            background: #ffffffcc;
+            padding: 30px;
+            border-radius: 15px;
+            width: 350px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+
+        .search-box {
+            margin: 20px 0;
+            display: flex;
+            gap: 10px;
+        }
+
+        .search-box input {
+            flex: 1;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #444;
+        }
+
+        .search-box button {
+            padding: 10px 20px;
+            border: none;
+            background: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .search-box button:hover {
+            background: #0056b3;
+        }
+
+        .weather-box {
+            margin-top: 20px;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Weather App</h1>
+
+        <div class="search-box">
+            <input type="text" id="cityInput" placeholder="Enter City Name">
+            <button onclick="getWeather()">Search</button>
+        </div>
+
+        <div id="weatherResult" class="weather-box hidden">
+            <h2 id="cityName"></h2>
+            <p id="temp"></p>
+            <p id="humidity"></p>
+            <p id="wind"></p>
+        </div>
+    </div>
+
+    <script>
+        async function getWeather() {
+            const city = document.getElementById("cityInput").value;
+            const apiKey = "YOUR_API_KEY";  // ← Yaha apna API key daalna
+            const url = https//api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric;
+
+            let, weatherBox = document.getElementById("weatherResult");
+
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+
+                if (data.cod === "404") {
+                    alert("City not found!");
+                    return;
+                }
+
+                document.getElementById("cityName").innerText = $;{data.name} {data.sys.country};
+                document.getElementById("temp").innerText = "Temperature: " + data.main.temp + "°C";
+                document.getElementById("humidity").innerText = "Humidity: " + data.main.humidity + "%";
+                document.getElementById("wind").innerText = "Wind Speed: " + data.wind.speed + " m/s";
+
+                weatherBox.classList.remove("hidden");
+
+            } catch (error) {
+                alert("Error fetching weather data!");
+                console.log(error);
+            }
+        }
+    </script>
+
+</body>
+</html>

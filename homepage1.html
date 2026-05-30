@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>VGI - Experiments 1 to 4</title>
+
+    <style>
+      body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+
+      /* Header */
+      #header { 
+        text-align: center; 
+        padding: 20px; 
+        border-bottom: 1px solid #ccc; 
+      }
+      #header img { height: 80px; vertical-align: middle; }
+      #header span { 
+        font-size: 28px; 
+        font-weight: bold; 
+        margin-left: 20px; 
+        vertical-align: middle; 
+      }
+
+      /* Navigation */
+      nav { 
+        background: #000; 
+        color: white; 
+        padding: 15px; 
+        text-align: center; 
+      }
+      nav a { 
+        color: white; 
+        margin: 0 15px; 
+        text-decoration: none; 
+        font-size: 18px; 
+      }
+
+      /* Sections */
+      section { display: none; padding: 30px; }
+      #home { display: block; }
+    </style>
+
+    <script>
+      function showSection(id) {
+        document.querySelectorAll("section").forEach(sec => sec.style.display = "none");
+        document.getElementById(id).style.display = "block";
+      }
+    </script>
+</head>
+
+<body>
+
+  <!-- REAL VGI LOGO (BASE64 IMAGE - OFFLINE WORKING) -->
+  <div id="header">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAA+n0H1AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFbklEQVR4nO3dMW4bRRRF0c8UgGQAEZAAIkACJAAIkAAiQAIkgBB4j5l9rOo5e3N2

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VGI GB Nagar - College Website</title>
+
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;font-family:'Arial',sans-serif}
+
+    body{color:#222}
+
+    .container{width:92%;max-width:1100px;margin:auto}
+
+    /* NAV */
+    .navbar{background:#fff;box-shadow:0 2px 8px rgba(0,0,0,0.1);position:sticky;top:0;z-index:10}
+    .nav-inner{display:flex;justify-content:space-between;align-items:center;padding:14px 0}
+    .brand-title{font-size:20px;font-weight:bold;color:#1b3b7a;text-decoration:none}
+    .nav-links a{margin-left:20px;text-decoration:none;color:#333;font-weight:500}
+    .menu-btn{display:none;font-size:24px;background:none;border:none}
+
+    /* HERO */
+    .hero{padding:60px 0;background:linear-gradient(135deg,#5b86e5,#36d1dc);color:white}
+    .hero-inner{display:flex;align-items:center;gap:30px}
+    .hero-inner img{width:320px;border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,0.2)}
+    .btn{display:inline-block;padding:10px 16px;border-radius:6px;font-weight:bold;text-decoration:none}
+    .primary{background:#ff6b6b;color:white}
+    .outline{border:2px solid white;color:white}
+
+    /* SECTIONS */
+    .section{padding:60px 0}
+    .section:nth-child(even){background:#f9fbff}
+    .section-title{font-size:26px;margin-bottom:20px;color:#1b3b7a}
+
+    /* ABOUT */
+    .about-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+    .about-images img{width:100%;border-radius:8px;margin-bottom:10px}
+
+    /* COURSES */
+    .cards{display:flex;flex-wrap:wrap;gap:20px}
+    .card{flex:1;min-width:260px;padding:20px;background:white;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.07)}
+    .card-btn{margin-top:10px;display:inline-block;color:#1b3b7a;text-decoration:none;font-weight:bold}
+
+    /* ADMISSION */
+    .admission-grid{display:grid;grid-template-columns:1fr 350px;gap:20px}
+    .apply-card{padding:20px;background:white;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.07)}
+    input,select,textarea{width:100%;padding:10px;margin:8px 0;border-radius:6px;border:1px solid #ccc}
+
+    /* CONTACT */
+    .contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+
+    /* FOOTER */
+    footer{background:#1b1f36;color:white;padding:20px 0;text-align:center}
+
+    /* RESPONSIVE */
+    @media(max-width:900px){
+      .hero-inner{flex-direction:column;text-align:center}
+      .about-grid,.admission-grid,.contact-grid{grid-template-columns:1fr}
+      .nav-links{display:none;position:absolute;right:20px;top:70px;background:white;padding:15px;border-radius:10px;box-shadow:0 8px 20px rgba(0,0,0,0.1)}
+      .nav-links a{display:block;margin:10px 0}
+      .menu-btn{display:block}
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a href="#" class="brand-title">VGI GB Nagar</a>
+
+      <nav class="nav-links" id="navLinks">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#courses">Courses</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <button class="menu-btn" id="menuBtn">☰</button>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div class="container hero-inner">
+      <div>
+        <h1>Vishveshwarya Group of Institutions</h1>
+        <p>Modern education • Labs • Placement • Skilled Faculty</p><br>
+        <a href="#admission" class="btn primary">Apply Now</a>
+        <a href="#courses" class="btn outline">View Courses</a>
+        <h1>B.Tech (CSE), B.Tech (ME)</h1>
+      </div>
+      <img src="https://www.vgi.ac.in/images/vgi-campus-flag-2.jpg" alt="Campus Image">
+      <img src="https://www.vgi.ac.in/images/new-logo-2025.png" alt="Vishveshwarya Group of Institutions Campus Photo">
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section" id="about">
+    <div class="container">
+      <h2 class="section-title">About VGI GB Nagar</h2>
+      <div class="about-grid">
+        <div>
+          <p>VGI GB Nagar is known for engineering, management, diploma and skill-based programs with top-class facilities and dedicated facult

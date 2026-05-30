@@ -1,0 +1,280 @@
+Employee_ID,Job_Title,Industry,Country,Education_Level,Years_Experience,AI_Replacement_Risk,Future_Demand_Score,Remote_Work_Possibility,Average_Salary_USD,Required_Skills,Automation_Level,Job_Growth_2030,Work_Hours_Per_Week,Company_Size,AI_Tool_Usage,Performance_Score,Upskilling_Needed,Job_Satisfaction,Hiring_Trend_2026
+AIJ-100009,Product Manager,Education,India,PhD,6,0.86,0.88,Hybrid,48574,"SQL, Deep Learning, Machine Learning",Low,36,59,Enterprise,High,3.42,No,4.23,Declining
+AIJ-100020,Healthcare Analyst,Healthcare,India,Master,21,0.9,0.93,No,193356,"Python, Docker, Prompt Engineering, Data Visualization, AWS, SQL",Medium,15,52,Medium,High,2.38,No,3.66,Stable
+AIJ-100027,UX Designer,Energy,India,High School,15,0.24,0.46,Yes,129385,"SQL, Communication, TensorFlow, Data Visualization",High,24,31,Medium,Low,3.95,Yes,4.02,Declining
+AIJ-100031,Business Analyst,Manufacturing,India,Master,8,0.49,0.46,Hybrid,157808,"Azure, TensorFlow, Leadership, Python",High,7,47,Startup,High,4.84,Yes,1.97,Stable
+AIJ-100036,Business Analyst,Education,India,High School,5,0.1,0.96,Yes,56013,"Azure, Project Management, PyTorch, Cybersecurity, Docker, AWS",Low,25,32,Startup,Low,3.23,No,2.17,Declining
+AIJ-100060,Machine Learning Engineer,Manufacturing,India,Master,24,0.24,0.53,Hybrid,119363,"Machine Learning, Cybersecurity, Python, SQL, Excel, Communication",High,-5,58,Startup,Low,2.47,Yes,3.7,Stable
+AIJ-100072,Product Manager,Healthcare,India,High School,24,0.38,0.94,Yes,216489,"Communication, SQL, AWS, PyTorch",Medium,18,58,Enterprise,Low,4.49,Yes,4.79,Declining
+AIJ-100077,AI Engineer,Manufacturing,India,PhD,17,0.31,0.23,No,82289,"Cybersecurity, Machine Learning, Azure, Python",Medium,-8,54,Enterprise,Low,2.86,Yes,4.46,Stable
+AIJ-100095,Robotics Engineer,Technology,India,High School,11,0.79,0.95,No,68397,"Project Management, Cloud Computing, TensorFlow, Azure, Prompt Engineering",High,6,53,Medium,Low,2.61,No,4.73,Growing
+AIJ-100098,Product Manager,Transportation,India,Bachelor,25,0.54,0.59,Yes,65179,"Cloud Computing, Leadership, Project Management, Deep Learning, Docker",Medium,0,53,Medium,High,2.77,Yes,1.06,Stable
+AIJ-100136,Cybersecurity Analyst,Manufacturing,India,High School,11,0.84,0.44,Hybrid,101832,"Azure, Python, PyTorch, Cloud Computing, Excel, Machine Learning",High,0,31,Medium,High,2.92,Yes,2.72,Declining
+AIJ-100143,Product Manager,Media,India,Bachelor,11,0.06,0.59,Yes,120886,"Cloud Computing, Python, Cybersecurity, Excel",High,39,57,Medium,High,4.66,Yes,2.34,Stable
+AIJ-100149,Healthcare Analyst,Transportation,India,Bachelor,2,0.77,0.75,Yes,115524,"Project Management, Communication, Leadership, Azure",Low,39,54,Enterprise,Low,2.47,Yes,2.8,Stable
+AIJ-100175,Healthcare Analyst,Manufacturing,India,Master,14,0.25,0.89,Yes,140224,"Leadership, Machine Learning, Deep Learning, Data Visualization",Medium,-7,57,Enterprise,High,3.74,Yes,2.89,Declining
+AIJ-100181,Teacher,Healthcare,India,High School,25,0.43,0.91,Yes,164108,"Docker, Communication, Cybersecurity",Medium,2,49,Startup,Moderate,4.49,Yes,2.43,Stable
+AIJ-100188,Teacher,Government,India,Bachelor,20,0.55,0.2,Hybrid,53827,"TensorFlow, PyTorch, SQL",Medium,11,41,Startup,Low,4.53,No,3.24,Growing
+AIJ-100192,Teacher,Media,India,Master,22,0.46,0.31,Hybrid,138198,"Communication, TensorFlow, Leadership, Cybersecurity",High,30,36,Startup,Low,3.87,No,3.75,Growing
+AIJ-100220,Data Engineer,Government,India,PhD,12,0.9,0.83,Hybrid,97552,"Docker, Project Management, Leadership",Medium,39,37,Medium,Moderate,4.04,Yes,2.93,Stable
+AIJ-100226,Healthcare Analyst,Transportation,India,Master,17,0.81,0.61,Hybrid,218890,"PyTorch, AWS, Cybersecurity, Azure",Low,15,33,Enterprise,Low,2.18,No,2.91,Growing
+AIJ-100273,Blockchain Developer,Healthcare,India,Bachelor,5,0.22,0.42,No,113663,"Python, Project Management, Prompt Engineering, Data Visualization, Cloud Computing",Low,-10,60,Enterprise,High,3.54,Yes,3.17,Growing
+AIJ-100281,DevOps Engineer,Finance,India,Bachelor,4,0.55,0.87,Yes,124447,"PyTorch, Prompt Engineering, Data Visualization, Deep Learning, Machine Learning, Cloud Computing",Low,31,30,Startup,High,4.65,No,4.9,Declining
+AIJ-100284,DevOps Engineer,Manufacturing,India,Master,5,0.51,0.57,Yes,116904,"SQL, Leadership, Python, Deep Learning, Azure",High,28,53,Medium,High,4.36,No,1.25,Stable
+AIJ-100288,UX Designer,Manufacturing,India,Master,25,0.37,0.87,Yes,190035,"Leadership, Docker, SQL, AWS, Communication, Kubernetes",Medium,31,48,Medium,Moderate,4.32,Yes,3.94,Growing
+AIJ-100295,Cybersecurity Analyst,Media,India,PhD,17,0.95,0.39,No,131913,"Prompt Engineering, Cybersecurity, SQL, Cloud Computing, Python, Excel",Low,-8,40,Startup,Moderate,4.36,Yes,2.62,Declining
+AIJ-100312,Software Developer,Manufacturing,India,PhD,5,0.49,0.97,Hybrid,42404,"Project Management, Data Visualization, Communication, Cloud Computing",Low,35,47,Medium,Low,4.92,Yes,1.65,Declining
+AIJ-100315,Product Manager,Education,India,Bachelor,0,0.1,0.71,Yes,182943,"Azure, Excel, Machine Learning, Data Visualization",High,44,44,Enterprise,High,4.87,No,1.78,Stable
+AIJ-100316,Financial Analyst,Technology,India,Master,11,0.69,0.54,No,131217,"Excel, TensorFlow, Cybersecurity",Medium,45,47,Startup,Low,4.18,No,3.97,Stable
+AIJ-100333,Digital Marketer,Education,India,High School,22,0.42,0.24,Yes,94023,"TensorFlow, Cloud Computing, PyTorch, Data Visualization, Azure",Medium,-3,40,Startup,Low,3.62,Yes,2.84,Stable
+AIJ-100336,DevOps Engineer,Energy,India,PhD,21,0.44,0.63,Hybrid,82448,"Project Management, Docker, Kubernetes",Low,-9,50,Enterprise,High,4.59,No,1.85,Growing
+AIJ-100350,Financial Analyst,Energy,India,Master,19,0.93,0.59,No,103662,"Communication, Cloud Computing, Leadership, Python",High,10,43,Startup,Moderate,4.21,No,4.05,Declining
+AIJ-100370,Product Manager,Media,India,Bachelor,2,0.4,0.77,Hybrid,63031,"Prompt Engineering, Project Management, Machine Learning, Python, Communication, Data Visualization",High,9,46,Medium,High,2.48,Yes,4.56,Growing
+AIJ-100375,Robotics Engineer,Manufacturing,India,Master,15,0.09,0.32,Yes,127377,"Cloud Computing, Excel, Project Management",Low,-1,55,Enterprise,Moderate,2.15,No,4.56,Declining
+AIJ-100376,IoT Specialist,Government,India,PhD,10,0.36,0.89,No,139464,"AWS, Python, Cloud Computing, Communication",Medium,43,53,Enterprise,Low,4.29,No,4.05,Growing
+AIJ-100381,Digital Marketer,Technology,India,High School,7,0.11,0.22,Hybrid,196079,"Leadership, Azure, PyTorch",High,40,34,Medium,High,3.22,Yes,4.39,Growing
+AIJ-100389,Machine Learning Engineer,Manufacturing,India,High School,20,0.91,0.92,Hybrid,81610,"Python, Deep Learning, PyTorch",Low,-9,45,Medium,Low,3.78,No,4.36,Declining
+AIJ-100397,Healthcare Analyst,Education,India,PhD,7,0.66,0.5,No,59089,"Communication, Cloud Computing, Python, PyTorch",Medium,32,35,Enterprise,High,4.64,Yes,1.47,Declining
+AIJ-100402,Healthcare Analyst,Retail,India,Master,6,0.08,0.36,Hybrid,81549,"Cloud Computing, Machine Learning, Excel",High,-2,57,Enterprise,High,3.63,No,1.03,Stable
+AIJ-100412,Cybersecurity Analyst,Technology,India,Bachelor,14,0.16,0.79,No,74159,"Cloud Computing, Data Visualization, Project Management",Low,3,52,Startup,High,3.6,No,3.79,Growing
+AIJ-100415,Business Analyst,Energy,India,PhD,3,0.63,0.49,Hybrid,47650,"Prompt Engineering, Azure, Deep Learning, SQL, Leadership, Cybersecurity",High,40,59,Enterprise,Low,2.76,Yes,3.4,Growing
+AIJ-100420,Blockchain Developer,Education,India,PhD,2,0.6,0.44,No,181105,"Prompt Engineering, Deep Learning, PyTorch, Machine Learning",Medium,14,35,Medium,Moderate,3.27,No,4.04,Stable
+AIJ-100427,Machine Learning Engineer,Healthcare,India,High School,12,0.61,0.69,Yes,196837,"Prompt Engineering, Communication, PyTorch, Deep Learning",Medium,-6,40,Startup,High,2.7,No,3.69,Declining
+AIJ-100442,Data Scientist,Education,India,High School,16,0.38,0.63,No,140900,"Cloud Computing, Docker, Project Management",High,24,44,Startup,High,3.47,No,3.09,Stable
+AIJ-100462,Digital Marketer,Retail,India,High School,5,0.69,0.61,Yes,109537,"Python, Docker, Azure, Communication",Low,24,37,Medium,Low,3.92,No,4.71,Stable
+AIJ-100464,Cloud Architect,Energy,India,Bachelor,14,0.93,0.81,Yes,182898,"Data Visualization, Communication, Python, Docker, Leadership",Medium,7,36,Enterprise,High,4.42,No,1.62,Declining
+AIJ-100480,Machine Learning Engineer,Healthcare,India,Master,11,0.46,0.33,Yes,107491,"Project Management, Machine Learning, AWS, SQL",Low,1,52,Medium,Moderate,4.96,No,4.05,Stable
+AIJ-100484,DevOps Engineer,Retail,India,Bachelor,2,0.24,0.22,Yes,209220,"SQL, Excel, PyTorch, Deep Learning, Cloud Computing, Python",Low,7,42,Startup,Moderate,4.62,No,4.49,Growing
+AIJ-100495,Machine Learning Engineer,Finance,India,High School,5,0.85,0.7,Hybrid,148195,"Prompt Engineering, PyTorch, TensorFlow",High,30,49,Startup,Low,4.93,No,2.94,Growing
+AIJ-100497,Prompt Engineer,Education,India,Bachelor,6,0.72,0.59,Hybrid,164389,"Machine Learning, Excel, Project Management, Deep Learning",High,7,60,Medium,Low,3.75,No,1.66,Declining
+AIJ-100537,Cybersecurity Analyst,Technology,India,PhD,15,0.29,0.66,Yes,108751,"Azure, Cloud Computing, Python, Deep Learning, PyTorch, AWS",Medium,14,44,Startup,Low,2.62,Yes,3.64,Growing
+AIJ-100543,Financial Analyst,Transportation,India,High School,5,0.6,0.48,No,136990,"Machine Learning, PyTorch, Project Management, Kubernetes, Python, Data Visualization",Low,8,59,Startup,High,2.08,Yes,4.23,Growing
+AIJ-100550,DevOps Engineer,Media,India,Master,3,0.91,0.23,No,85228,"Project Management, Leadership, TensorFlow, Data Visualization, AWS, Machine Learning",Medium,0,33,Medium,Moderate,3.46,Yes,4.54,Stable
+AIJ-100565,DevOps Engineer,Retail,India,Master,19,0.43,0.21,No,60823,"Data Visualization, Docker, AWS, Machine Learning, Excel, Communication",High,31,35,Startup,Moderate,3.57,Yes,4.21,Growing
+AIJ-100592,DevOps Engineer,Finance,India,Master,14,0.3,0.52,Hybrid,34907,"TensorFlow, Data Visualization, Project Management",High,10,33,Startup,Low,2.05,No,1.88,Growing
+AIJ-100611,UX Designer,Education,India,PhD,9,0.93,0.72,No,139290,"Data Visualization, Kubernetes, Leadership, Communication",Low,9,40,Enterprise,Moderate,4.49,No,2.8,Stable
+AIJ-100657,Business Analyst,Transportation,India,High School,20,0.42,0.53,Hybrid,102898,"Prompt Engineering, Communication, PyTorch, Excel, Python",Medium,-8,52,Medium,Low,3.99,Yes,1.28,Declining
+AIJ-100697,HR Specialist,Media,India,Master,0,0.15,0.77,Hybrid,149339,"AWS, Data Visualization, Python",High,20,32,Enterprise,High,2.46,Yes,2.59,Stable
+AIJ-100703,Digital Marketer,Energy,India,Bachelor,17,0.18,0.26,Hybrid,110361,"Python, Docker, Cloud Computing, Deep Learning",Low,42,36,Startup,Low,2.09,Yes,1.83,Growing
+AIJ-100707,Machine Learning Engineer,Transportation,India,PhD,25,0.89,0.55,Hybrid,161615,"Python, Cybersecurity, Kubernetes",High,36,31,Medium,High,2.35,No,1.7,Stable
+AIJ-100713,Financial Analyst,Education,India,PhD,1,0.2,0.7,No,138398,"Machine Learning, AWS, Kubernetes, Project Management",Low,45,40,Medium,Low,2.58,No,2.56,Growing
+AIJ-100714,Teacher,Media,India,PhD,24,0.83,0.7,Yes,93265,"Cybersecurity, AWS, PyTorch, Leadership",Medium,28,30,Medium,Low,3.69,Yes,4.09,Declining
+AIJ-100745,Data Engineer,Government,India,Bachelor,15,0.89,0.73,Hybrid,206066,"Deep Learning, AWS, PyTorch, Prompt Engineering, SQL",Low,13,35,Medium,Low,3.04,Yes,1.13,Stable
+AIJ-100765,IoT Specialist,Energy,India,Bachelor,15,0.25,0.36,Yes,102250,"Docker, Machine Learning, Azure, Data Visualization, Cybersecurity, Leadership",Medium,-2,30,Startup,High,3.46,Yes,4.95,Growing
+AIJ-100774,UX Designer,Manufacturing,India,Bachelor,23,0.2,0.86,Yes,146673,"Azure, Data Visualization, Prompt Engineering, Deep Learning, AWS",Low,15,39,Medium,High,3.39,Yes,4.5,Declining
+AIJ-100779,Software Developer,Finance,India,High School,10,0.49,0.92,No,50081,"Machine Learning, Cybersecurity, AWS, Docker",Medium,-8,46,Medium,Moderate,2.08,Yes,1.01,Stable
+AIJ-100818,Healthcare Analyst,Manufacturing,India,Master,5,0.2,0.91,Hybrid,76113,"Leadership, Azure, SQL, Python, Kubernetes, AWS",Medium,19,48,Medium,Low,2.42,No,1.74,Declining
+AIJ-100844,Business Analyst,Technology,India,High School,23,0.38,0.44,Yes,64166,"PyTorch, Excel, Leadership, Communication",Low,-1,45,Startup,Moderate,2.37,Yes,2.92,Growing
+AIJ-100859,IoT Specialist,Technology,India,High School,18,0.4,0.95,No,205708,"Kubernetes, Docker, Cybersecurity, Deep Learning, Excel, TensorFlow",Low,35,33,Medium,Low,4.37,No,1.45,Stable
+AIJ-100862,HR Specialist,Education,India,PhD,17,0.54,0.3,Hybrid,161735,"Excel, Deep Learning, PyTorch, Cybersecurity",High,4,49,Startup,Moderate,2.41,No,2.58,Declining
+AIJ-100887,Prompt Engineer,Energy,India,High School,2,0.44,0.97,Yes,205228,"Azure, Machine Learning, Leadership, Python, Excel, Kubernetes",High,15,59,Medium,Moderate,4.6,Yes,3.82,Declining
+AIJ-100892,Software Developer,Energy,India,Bachelor,5,0.13,0.76,Yes,135594,"Machine Learning, Cloud Computing, Cybersecurity, AWS",High,20,40,Enterprise,High,2.22,Yes,4.24,Stable
+AIJ-100951,Digital Marketer,Retail,India,High School,25,0.84,0.94,No,106587,"PyTorch, Deep Learning, Project Management, Data Visualization, TensorFlow, Cybersecurity",High,-3,42,Enterprise,High,3.77,Yes,4.34,Stable
+AIJ-100960,Digital Marketer,Education,India,PhD,14,0.23,0.21,No,35758,"Leadership, TensorFlow, Cloud Computing, AWS",Low,36,52,Startup,High,4.7,No,2.46,Declining
+AIJ-100973,Cybersecurity Analyst,Manufacturing,India,High School,22,0.82,0.27,No,75323,"Data Visualization, Machine Learning, Docker, AWS",High,-1,57,Medium,High,3.25,No,4.97,Stable
+AIJ-100976,Business Analyst,Healthcare,India,PhD,16,0.31,0.68,Hybrid,169433,"Python, Project Management, Machine Learning, Kubernetes",High,45,33,Startup,Moderate,4.59,No,1.61,Stable
+AIJ-100982,Product Manager,Healthcare,India,Bachelor,24,0.06,0.91,Yes,171092,"PyTorch, Excel, Data Visualization",High,-2,44,Enterprise,Moderate,4.87,Yes,2.84,Growing
+AIJ-100991,AI Engineer,Education,India,Master,9,0.43,0.9,No,62211,"SQL, Python, Cloud Computing, Leadership, TensorFlow, AWS",Low,28,49,Startup,Moderate,3.45,No,4.82,Growing
+AIJ-101001,Teacher,Government,India,PhD,20,0.24,0.51,No,184051,"TensorFlow, Machine Learning, Project Management, Cloud Computing",Medium,11,31,Enterprise,High,3.73,Yes,3.76,Declining
+AIJ-101010,Cybersecurity Analyst,Manufacturing,India,PhD,21,0.54,0.97,Yes,142774,"Deep Learning, SQL, Python, Leadership, Data Visualization",Low,31,40,Medium,Moderate,2.72,No,3.27,Stable
+AIJ-101029,Cybersecurity Analyst,Energy,India,High School,1,0.31,0.87,No,64243,"Kubernetes, Machine Learning, Cloud Computing, Project Management, Python, Deep Learning",High,37,53,Enterprise,Low,3.18,Yes,4.33,Stable
+AIJ-101059,Healthcare Analyst,Manufacturing,India,Bachelor,12,0.74,0.59,Hybrid,55811,"Cloud Computing, Cybersecurity, Deep Learning, Project Management, Data Visualization",Low,38,51,Enterprise,Moderate,2.48,No,1.08,Stable
+AIJ-101067,Financial Analyst,Healthcare,India,Master,17,0.75,0.32,No,172395,"Cloud Computing, AWS, Kubernetes, Prompt Engineering, Machine Learning, Python",High,25,37,Startup,Moderate,2.53,Yes,4.34,Growing
+AIJ-101069,Data Scientist,Technology,India,Bachelor,6,0.85,0.23,Yes,119766,"Python, Prompt Engineering, Machine Learning, Docker, Cloud Computing, Deep Learning",Medium,43,44,Startup,Moderate,4.75,No,3.31,Declining
+AIJ-101072,HR Specialist,Transportation,India,Master,0,0.63,0.48,No,83846,"Leadership, Data Visualization, Azure, PyTorch, Machine Learning, Communication",High,-10,46,Enterprise,Moderate,2.9,Yes,2.67,Stable
+AIJ-101077,IoT Specialist,Transportation,India,Master,8,0.92,0.52,Yes,49727,"Cybersecurity, SQL, Cloud Computing, Machine Learning, AWS",Low,-10,42,Startup,High,4.32,No,3.56,Growing
+AIJ-101080,Healthcare Analyst,Healthcare,India,Bachelor,23,0.26,0.46,Yes,32603,"Cloud Computing, Machine Learning, Excel, AWS",Low,27,50,Startup,Moderate,2.71,Yes,3.07,Stable
+AIJ-101087,Software Developer,Finance,India,PhD,2,0.74,0.63,Yes,76566,"Deep Learning, Kubernetes, Excel",High,4,42,Startup,High,2.14,Yes,4.73,Declining
+AIJ-101092,Machine Learning Engineer,Education,India,Master,13,0.74,0.26,No,160078,"Kubernetes, Deep Learning, Azure, Cybersecurity, AWS",Low,22,56,Medium,High,2.77,Yes,1.66,Stable
+AIJ-101116,Cybersecurity Analyst,Education,India,High School,0,0.83,0.78,Yes,177855,"Project Management, Deep Learning, SQL",High,41,48,Medium,Moderate,2.46,No,1.53,Growing
+AIJ-101119,Robotics Engineer,Technology,India,Bachelor,25,0.93,0.32,No,200822,"Docker, PyTorch, Leadership",Medium,6,33,Enterprise,Low,2.95,Yes,3.63,Stable
+AIJ-101121,Robotics Engineer,Finance,India,Master,8,0.22,0.56,No,79775,"Prompt Engineering, Docker, AWS",Medium,25,49,Startup,Moderate,3.48,Yes,2.78,Growing
+AIJ-101148,DevOps Engineer,Healthcare,India,PhD,8,0.78,0.52,No,98779,"Prompt Engineering, Docker, Excel, Leadership, PyTorch, TensorFlow",High,21,50,Enterprise,Low,2.31,Yes,4.92,Growing
+AIJ-101154,Product Manager,Energy,India,Master,15,0.37,0.45,Hybrid,147864,"Python, Cloud Computing, PyTorch, Data Visualization",High,15,40,Medium,Moderate,4.67,No,1.4,Declining
+AIJ-101162,Prompt Engineer,Media,India,High School,18,0.6,0.82,No,166314,"Prompt Engineering, Python, Cybersecurity, PyTorch",Low,5,50,Startup,Low,4.91,No,1.12,Growing
+AIJ-101172,UX Designer,Retail,India,High School,9,0.66,0.78,No,165417,"Cybersecurity, Machine Learning, AWS, Project Management, Azure",High,24,36,Startup,Low,2.93,No,4.55,Declining
+AIJ-101174,DevOps Engineer,Media,India,Master,13,0.77,0.7,No,123627,"Cybersecurity, Deep Learning, Project Management",High,41,39,Startup,Low,4.46,No,3.9,Stable
+AIJ-101189,Cybersecurity Analyst,Manufacturing,India,Bachelor,22,0.64,0.39,Hybrid,219133,"Kubernetes, Python, Cybersecurity, PyTorch, Prompt Engineering, Project Management",Low,-10,42,Startup,Low,2.55,Yes,1.74,Growing
+AIJ-101200,Software Developer,Healthcare,India,PhD,25,0.71,0.65,Yes,60887,"Kubernetes, Cybersecurity, TensorFlow",High,39,39,Medium,Moderate,2.55,No,4.35,Growing
+AIJ-101229,Digital Marketer,Technology,India,Master,23,0.57,0.69,Yes,67388,"Excel, Project Management, Python, Kubernetes, Deep Learning",Low,37,37,Startup,Moderate,3.95,No,2.86,Growing
+AIJ-101237,UX Designer,Government,India,Master,3,0.31,0.54,Yes,73171,"AWS, PyTorch, Communication, Kubernetes, Deep Learning, Azure",Medium,16,50,Startup,Moderate,2.02,No,3.31,Growing
+AIJ-101250,Healthcare Analyst,Media,India,PhD,13,0.48,0.64,Hybrid,47441,"Cybersecurity, Cloud Computing, Azure, AWS, TensorFlow, Excel",Medium,28,57,Startup,Low,4.44,Yes,1.03,Growing
+AIJ-101275,Product Manager,Education,India,Bachelor,21,0.23,0.79,No,100167,"Kubernetes, PyTorch, Excel, Azure, Docker, Communication",High,25,60,Medium,High,2.48,No,4.33,Declining
+AIJ-101283,Digital Marketer,Transportation,India,PhD,3,0.81,0.53,Yes,82375,"SQL, PyTorch, Cybersecurity, Deep Learning, Machine Learning, Communication",Low,32,40,Medium,Moderate,4.89,Yes,4.04,Stable
+AIJ-101302,Cybersecurity Analyst,Technology,India,High School,12,0.39,0.67,Hybrid,103442,"Data Visualization, AWS, SQL",High,-1,48,Startup,Low,3.63,Yes,1.51,Declining
+AIJ-101314,Data Scientist,Finance,India,Bachelor,25,0.84,0.41,No,205479,"Communication, Data Visualization, Project Management, TensorFlow, Kubernetes",Low,34,49,Medium,Moderate,3.23,Yes,1.47,Growing
+AIJ-101324,Machine Learning Engineer,Education,India,Bachelor,11,0.28,0.9,Hybrid,209068,"TensorFlow, AWS, Project Management",High,17,48,Enterprise,Moderate,2.06,No,2.3,Declining
+AIJ-101339,Blockchain Developer,Retail,India,Bachelor,0,0.72,0.47,Yes,98458,"Deep Learning, Prompt Engineering, Machine Learning, Cybersecurity, Kubernetes, Excel",Medium,28,38,Medium,Low,2.05,Yes,4.67,Declining
+AIJ-101344,Cybersecurity Analyst,Healthcare,India,PhD,2,0.19,0.91,Yes,107382,"Data Visualization, Machine Learning, Leadership",Low,-5,40,Enterprise,Moderate,3.09,Yes,4.81,Stable
+AIJ-101362,Product Manager,Technology,India,High School,25,0.64,0.24,Yes,51708,"Docker, Communication, PyTorch",Low,9,47,Startup,Low,4.52,No,4.48,Stable
+AIJ-101363,Healthcare Analyst,Retail,India,PhD,0,0.94,0.58,No,120680,"Excel, Docker, TensorFlow, Prompt Engineering",Low,27,34,Medium,Low,3.85,No,2.94,Stable
+AIJ-101370,Robotics Engineer,Government,India,Bachelor,21,0.63,0.57,Yes,89956,"Cloud Computing, Kubernetes, Leadership",High,6,52,Enterprise,Moderate,2.4,No,4.77,Stable
+AIJ-101372,IoT Specialist,Government,India,PhD,11,0.66,0.66,Hybrid,120180,"Excel, Kubernetes, Python, PyTorch, TensorFlow",Low,31,43,Medium,Low,2.47,No,3.51,Declining
+AIJ-101383,Digital Marketer,Manufacturing,India,High School,3,0.28,0.61,Yes,81990,"TensorFlow, Cybersecurity, Data Visualization, Python, SQL",Low,18,35,Enterprise,Low,4.73,Yes,1.78,Growing
+AIJ-101412,Robotics Engineer,Education,India,Bachelor,20,0.48,0.9,No,97602,"Azure, Deep Learning, PyTorch, Excel, TensorFlow, Docker",Medium,29,58,Medium,High,3.49,No,2.45,Declining
+AIJ-101426,Healthcare Analyst,Technology,India,Bachelor,1,0.05,0.54,No,49177,"Deep Learning, Leadership, Cybersecurity, Python, PyTorch, TensorFlow",High,25,51,Medium,High,4.43,No,3.38,Stable
+AIJ-101440,Robotics Engineer,Retail,India,Bachelor,0,0.48,0.68,Yes,174613,"PyTorch, Machine Learning, Leadership, Docker",Low,41,38,Enterprise,High,2.45,No,1.77,Declining
+AIJ-101448,UX Designer,Transportation,India,PhD,14,0.4,0.43,Hybrid,46104,"Cloud Computing, Data Visualization, Leadership, Kubernetes, Prompt Engineering, Python",Medium,25,42,Enterprise,High,3.75,No,3.04,Growing
+AIJ-101450,AI Engineer,Technology,India,High School,5,0.15,0.76,Yes,140919,"Docker, Cloud Computing, Kubernetes, Azure, SQL, Deep Learning",Medium,8,39,Startup,Moderate,3.0,No,2.79,Declining
+AIJ-101463,AI Engineer,Energy,India,High School,19,0.33,0.97,Hybrid,87877,"Kubernetes, PyTorch, Cloud Computing, Docker, SQL, Azure",High,-9,40,Enterprise,Moderate,3.44,No,2.27,Stable
+AIJ-101498,Data Engineer,Technology,India,Master,13,0.93,0.33,Hybrid,181236,"Data Visualization, Docker, Python, SQL",Medium,13,46,Enterprise,Moderate,2.41,No,2.96,Declining
+AIJ-101510,Business Analyst,Finance,India,Master,24,0.56,0.66,Yes,144486,"Azure, Communication, Docker, Data Visualization, Python",Medium,-1,44,Enterprise,High,2.33,Yes,1.36,Declining
+AIJ-101514,Data Engineer,Technology,India,Master,25,0.12,0.34,Yes,118067,"AWS, Data Visualization, Machine Learning, Cybersecurity, Prompt Engineering",High,43,58,Startup,Moderate,3.34,No,3.48,Growing
+AIJ-101522,Product Manager,Energy,India,Bachelor,25,0.24,0.54,No,130043,"Machine Learning, Data Visualization, Prompt Engineering, Excel, Kubernetes, Python",High,20,47,Medium,Low,3.28,No,1.74,Declining
+AIJ-101535,AI Engineer,Technology,India,PhD,19,0.48,0.45,No,178945,"Excel, Data Visualization, Kubernetes",Low,-2,55,Enterprise,Low,4.71,No,2.21,Declining
+AIJ-101540,Data Scientist,Education,India,Master,18,0.15,0.77,No,71651,"Project Management, SQL, Leadership, PyTorch, Azure, Python",Medium,-9,60,Medium,Low,2.77,No,4.08,Stable
+AIJ-101546,Digital Marketer,Energy,India,PhD,11,0.53,0.23,Hybrid,212152,"TensorFlow, Prompt Engineering, Cybersecurity, Cloud Computing",Medium,16,43,Medium,High,3.29,No,4.77,Stable
+AIJ-101548,Data Engineer,Healthcare,India,Bachelor,22,0.77,0.49,No,76730,"Cloud Computing, Communication, Docker",Low,-6,43,Enterprise,Moderate,2.35,No,2.55,Declining
+AIJ-101550,UX Designer,Manufacturing,India,Master,18,0.78,0.36,No,207381,"AWS, Azure, Machine Learning, Cybersecurity",High,16,55,Medium,Low,2.03,Yes,4.4,Declining
+AIJ-101556,Software Developer,Government,India,Master,14,0.47,0.96,No,57116,"Machine Learning, SQL, Docker, AWS, Deep Learning, Python",Low,37,53,Startup,Low,4.57,No,3.24,Declining
+AIJ-101559,Prompt Engineer,Retail,India,PhD,22,0.94,0.29,Hybrid,108825,"AWS, Cloud Computing, Docker",Low,-4,48,Enterprise,Low,2.18,No,2.45,Stable
+AIJ-101570,Blockchain Developer,Technology,India,Bachelor,6,0.28,0.91,Yes,83585,"SQL, Python, Project Management, Machine Learning, Leadership, Cloud Computing",Low,33,33,Enterprise,High,3.61,Yes,3.13,Stable
+AIJ-101583,HR Specialist,Energy,India,PhD,25,0.09,0.88,Hybrid,199063,"Leadership, SQL, Cybersecurity, Cloud Computing",High,0,38,Startup,Moderate,4.32,Yes,2.43,Growing
+AIJ-101586,AI Engineer,Technology,India,High School,10,0.88,0.26,Hybrid,177594,"Leadership, Excel, PyTorch, Docker, Communication, Azure",High,4,36,Startup,Moderate,2.39,No,3.86,Growing
+AIJ-101588,Cybersecurity Analyst,Government,India,High School,6,0.55,0.5,No,201461,"Kubernetes, Machine Learning, Excel",High,40,53,Medium,Low,4.63,No,1.48,Declining
+AIJ-101590,Cybersecurity Analyst,Education,India,Master,5,0.92,0.37,Yes,66830,"PyTorch, Machine Learning, Cybersecurity",Low,26,57,Medium,Low,4.0,Yes,2.91,Growing
+AIJ-101609,Prompt Engineer,Healthcare,India,Master,11,0.05,0.85,Yes,33991,"Communication, Kubernetes, Deep Learning",High,40,57,Enterprise,Moderate,4.79,No,3.83,Stable
+AIJ-101618,Financial Analyst,Government,India,Bachelor,2,0.57,0.93,Hybrid,174830,"Machine Learning, PyTorch, Leadership",Low,21,48,Startup,Low,2.63,No,1.77,Growing
+AIJ-101623,Machine Learning Engineer,Energy,India,Bachelor,21,0.77,0.8,Yes,150080,"TensorFlow, Cloud Computing, SQL",Low,13,46,Medium,High,3.7,Yes,4.58,Stable
+AIJ-101630,Business Analyst,Finance,India,High School,10,0.13,0.2,Yes,131272,"Deep Learning, Azure, Prompt Engineering, Python, TensorFlow, Cybersecurity",Low,41,53,Startup,Moderate,3.08,Yes,4.48,Stable
+AIJ-101635,IoT Specialist,Transportation,India,Master,19,0.25,0.29,Hybrid,79179,"Deep Learning, TensorFlow, Cloud Computing, PyTorch",High,23,60,Medium,High,2.31,Yes,4.64,Declining
+AIJ-101637,Data Scientist,Education,India,Master,14,0.71,0.6,Yes,81453,"Kubernetes, Project Management, Azure, Communication",Medium,45,40,Enterprise,Moderate,4.07,Yes,4.47,Stable
+AIJ-101646,HR Specialist,Finance,India,Master,13,0.81,0.78,Hybrid,163803,"Docker, Project Management, Cloud Computing, Azure, Excel",Medium,-8,37,Medium,Low,3.33,No,3.38,Stable
+AIJ-101666,Financial Analyst,Transportation,India,PhD,11,0.16,0.26,Hybrid,100063,"SQL, Excel, Cybersecurity",High,-9,40,Startup,Moderate,2.06,Yes,2.41,Growing
+AIJ-101673,Cybersecurity Analyst,Manufacturing,India,High School,24,0.32,0.88,No,201034,"Cloud Computing, Python, Cybersecurity, Excel, Docker",Low,-7,49,Startup,Low,2.85,No,3.89,Declining
+AIJ-101677,Teacher,Retail,India,High School,12,0.31,0.59,No,166087,"AWS, Prompt Engineering, TensorFlow",High,35,55,Enterprise,Moderate,4.78,No,4.31,Growing
+AIJ-101687,HR Specialist,Education,India,Master,3,0.55,0.52,No,204182,"AWS, Docker, Cloud Computing, SQL, Machine Learning",Low,26,35,Startup,Low,3.74,Yes,2.76,Stable
+AIJ-101691,HR Specialist,Transportation,India,Bachelor,11,0.11,0.44,No,157607,"Communication, Cloud Computing, SQL, TensorFlow, Excel",High,-1,33,Startup,Low,4.55,Yes,3.02,Growing
+AIJ-101692,Business Analyst,Media,India,High School,3,0.58,0.49,Yes,114137,"Cloud Computing, Prompt Engineering, Cybersecurity, TensorFlow, PyTorch, Leadership",Medium,35,45,Startup,Low,2.9,No,2.58,Growing
+AIJ-101698,Product Manager,Healthcare,India,High School,9,0.56,0.92,Yes,100866,"Cloud Computing, Project Management, Data Visualization",Low,3,56,Enterprise,Moderate,4.08,No,4.61,Growing
+AIJ-101709,UX Designer,Manufacturing,India,Bachelor,5,0.6,0.85,No,174820,"Leadership, Excel, Machine Learning",High,11,40,Startup,Low,4.45,Yes,3.83,Growing
+AIJ-101711,Software Developer,Education,India,Bachelor,13,0.5,0.93,Hybrid,67319,"Python, Communication, Machine Learning, Deep Learning, Cloud Computing",Medium,43,46,Medium,Low,4.98,Yes,4.53,Growing
+AIJ-101716,Business Analyst,Education,India,Master,4,0.63,0.72,Yes,97059,"Cybersecurity, Python, Communication, Cloud Computing",Low,16,41,Startup,Low,4.41,No,4.37,Declining
+AIJ-101731,Cybersecurity Analyst,Retail,India,Bachelor,20,0.08,0.89,No,76277,"TensorFlow, Prompt Engineering, SQL, Kubernetes",Medium,31,60,Startup,High,4.26,Yes,3.24,Growing
+AIJ-101733,Data Engineer,Healthcare,India,Master,1,0.7,0.69,Yes,45735,"Kubernetes, Cybersecurity, TensorFlow, Communication, Machine Learning",Low,-2,36,Medium,High,3.11,Yes,4.3,Growing
+AIJ-101735,UX Designer,Retail,India,PhD,8,0.68,0.59,Hybrid,156464,"Excel, Data Visualization, Communication, Kubernetes",Low,-8,39,Medium,Moderate,4.42,Yes,2.74,Stable
+AIJ-101741,UX Designer,Technology,India,PhD,10,0.88,0.41,Hybrid,37968,"Cybersecurity, AWS, TensorFlow, SQL, Deep Learning, Prompt Engineering",Medium,-4,32,Startup,High,3.13,Yes,4.83,Declining
+AIJ-101753,Cloud Architect,Energy,India,Master,21,0.92,0.42,Hybrid,85774,"Azure, AWS, SQL, Docker",High,23,34,Medium,Low,4.96,No,3.19,Stable
+AIJ-101758,IoT Specialist,Retail,India,Bachelor,12,0.76,0.78,Hybrid,50799,"Deep Learning, Kubernetes, Azure, Python, AWS",Medium,-5,51,Enterprise,High,4.48,No,1.95,Growing
+AIJ-101761,Software Developer,Technology,India,Master,16,0.46,0.85,No,85475,"Cloud Computing, Leadership, Python, AWS",Medium,16,44,Medium,Low,3.09,No,1.44,Stable
+AIJ-101762,Cloud Architect,Energy,India,Master,14,0.58,0.38,Hybrid,52156,"TensorFlow, Python, Project Management, Data Visualization, Prompt Engineering, Communication",Medium,21,59,Enterprise,Moderate,4.26,No,4.73,Stable
+AIJ-101773,Robotics Engineer,Healthcare,India,Bachelor,1,0.9,0.67,Yes,168163,"SQL, AWS, Leadership, Data Visualization",Medium,23,39,Startup,Moderate,2.15,No,2.48,Growing
+AIJ-101788,Prompt Engineer,Government,India,Bachelor,13,0.32,0.54,Hybrid,132795,"Python, SQL, Azure, Communication, Machine Learning, Cybersecurity",Low,33,60,Enterprise,High,2.93,No,3.02,Growing
+AIJ-101799,Business Analyst,Finance,India,High School,17,0.39,0.67,Yes,216171,"TensorFlow, Python, Docker",Low,33,53,Medium,Low,4.13,No,1.64,Declining
+AIJ-101805,Cybersecurity Analyst,Education,India,High School,13,0.06,0.29,Yes,71327,"Cloud Computing, Deep Learning, Cybersecurity",Medium,24,30,Startup,High,3.79,No,1.12,Stable
+AIJ-101807,Teacher,Technology,India,Master,17,0.28,0.24,Hybrid,203079,"Prompt Engineering, Machine Learning, Data Visualization, Azure, TensorFlow, PyTorch",Low,5,47,Enterprise,High,2.36,Yes,4.66,Declining
+AIJ-101815,UX Designer,Government,India,Master,18,0.13,0.28,No,119006,"Prompt Engineering, Communication, Project Management, Azure, Machine Learning",Medium,31,39,Startup,Low,3.9,No,1.72,Growing
+AIJ-101840,HR Specialist,Government,India,Master,2,0.94,0.64,No,52185,"Excel, Data Visualization, Communication, AWS",High,36,40,Enterprise,High,2.2,No,2.25,Stable
+AIJ-101842,AI Engineer,Healthcare,India,PhD,14,0.74,0.67,Yes,120872,"Machine Learning, Docker, AWS",High,29,51,Startup,Moderate,3.47,No,4.61,Growing
+AIJ-101850,Prompt Engineer,Government,India,Bachelor,24,0.71,0.59,Hybrid,127966,"Prompt Engineering, Excel, PyTorch, Deep Learning, Cloud Computing, Leadership",High,9,55,Startup,Low,4.4,Yes,4.35,Growing
+AIJ-101866,Data Engineer,Government,India,High School,6,0.79,0.7,Yes,38502,"Project Management, Deep Learning, TensorFlow, AWS, Kubernetes, Cloud Computing",High,23,40,Enterprise,Moderate,3.49,Yes,1.57,Declining
+AIJ-101879,Data Engineer,Manufacturing,India,PhD,17,0.62,0.22,No,209445,"AWS, PyTorch, Data Visualization, Azure, Cloud Computing",High,1,43,Enterprise,Low,3.71,Yes,4.67,Growing
+AIJ-101883,Healthcare Analyst,Energy,India,Bachelor,9,0.82,0.52,No,170573,"Docker, PyTorch, Data Visualization",Medium,-7,51,Enterprise,High,4.47,Yes,1.84,Growing
+AIJ-101887,Data Scientist,Media,India,PhD,2,0.12,0.86,Yes,196161,"TensorFlow, Cybersecurity, Data Visualization, Azure, Project Management, AWS",Medium,36,54,Medium,High,2.13,Yes,1.73,Stable
+AIJ-101902,Blockchain Developer,Technology,India,High School,18,0.23,0.89,No,147841,"Project Management, Azure, Leadership, Cybersecurity, Excel, Deep Learning",Medium,24,32,Enterprise,Moderate,3.09,No,4.91,Stable
+AIJ-101920,Blockchain Developer,Education,India,Master,25,0.58,0.37,No,75261,"Excel, Machine Learning, Prompt Engineering, Deep Learning, Communication, Cybersecurity",High,31,30,Enterprise,Low,3.87,No,2.69,Declining
+AIJ-101925,DevOps Engineer,Government,India,PhD,0,0.95,0.28,Yes,213934,"Data Visualization, Cloud Computing, Deep Learning",High,-6,35,Medium,Moderate,4.89,No,4.1,Declining
+AIJ-101935,Digital Marketer,Education,India,Bachelor,4,0.76,0.79,No,198912,"Python, Machine Learning, Azure, Deep Learning, Excel, AWS",Low,27,37,Enterprise,Low,2.4,Yes,2.44,Stable
+AIJ-101949,Healthcare Analyst,Energy,India,Master,7,0.57,0.34,Hybrid,145709,"TensorFlow, Deep Learning, Cloud Computing, Kubernetes",Low,27,40,Startup,High,3.82,No,2.57,Stable
+AIJ-101953,Business Analyst,Transportation,India,PhD,0,0.93,0.51,Yes,179927,"Deep Learning, Prompt Engineering, Cloud Computing, AWS",Low,5,43,Enterprise,High,2.86,No,3.0,Declining
+AIJ-101956,DevOps Engineer,Media,India,PhD,8,0.63,0.44,No,71064,"Cloud Computing, Excel, Prompt Engineering, Data Visualization, TensorFlow, Project Management",Medium,33,41,Medium,Low,3.36,Yes,4.59,Declining
+AIJ-101960,IoT Specialist,Education,India,Master,1,0.25,0.43,No,174025,"Excel, Python, Data Visualization",Low,-3,49,Medium,Low,2.96,Yes,2.01,Declining
+AIJ-101962,Product Manager,Transportation,India,Master,20,0.45,0.62,No,121769,"Deep Learning, TensorFlow, PyTorch, Data Visualization, Cloud Computing, Project Management",Medium,-3,37,Startup,High,3.84,No,4.84,Stable
+AIJ-101963,IoT Specialist,Transportation,India,Bachelor,14,0.21,0.58,Hybrid,155166,"Machine Learning, PyTorch, Deep Learning, Docker, Project Management, Data Visualization",Low,-5,34,Startup,High,2.82,No,2.78,Stable
+AIJ-101970,Blockchain Developer,Finance,India,Master,17,0.45,0.36,Yes,174479,"PyTorch, AWS, Cloud Computing, SQL, Deep Learning",High,27,55,Enterprise,Moderate,4.01,No,1.03,Stable
+AIJ-101980,Machine Learning Engineer,Retail,India,PhD,12,0.26,0.25,Hybrid,107800,"AWS, SQL, Deep Learning",Low,32,49,Startup,Low,4.19,No,2.43,Growing
+AIJ-101999,Robotics Engineer,Transportation,India,Master,20,0.48,0.7,No,200910,"TensorFlow, Data Visualization, Kubernetes, AWS, Python",High,23,52,Enterprise,High,3.85,Yes,1.92,Stable
+AIJ-102014,DevOps Engineer,Finance,India,Bachelor,4,0.34,0.43,Yes,133744,"Cloud Computing, Communication, AWS",Low,31,43,Medium,Low,4.23,Yes,2.69,Growing
+AIJ-102027,UX Designer,Media,India,High School,5,0.21,0.41,Yes,181197,"Leadership, Prompt Engineering, Excel, TensorFlow, Kubernetes, Python",Low,42,53,Startup,Low,2.68,Yes,4.63,Growing
+AIJ-102040,DevOps Engineer,Manufacturing,India,Master,0,0.56,0.87,Yes,101242,"TensorFlow, AWS, Python",Low,-8,58,Medium,Low,2.07,No,2.02,Stable
+AIJ-102051,Business Analyst,Transportation,India,Master,23,0.34,0.49,Hybrid,195132,"Project Management, SQL, Leadership, Deep Learning, TensorFlow",Medium,12,40,Enterprise,Moderate,4.13,No,2.56,Growing
+AIJ-102062,Cybersecurity Analyst,Technology,India,High School,14,0.76,0.5,No,191631,"Data Visualization, Docker, AWS, Deep Learning, Cybersecurity, Azure",High,45,57,Startup,High,3.13,No,2.25,Growing
+AIJ-102063,Robotics Engineer,Technology,India,High School,22,0.65,0.24,Yes,34784,"Cloud Computing, Leadership, AWS, Kubernetes, SQL",Medium,41,33,Enterprise,Low,2.4,No,2.0,Growing
+AIJ-102072,Software Developer,Government,India,Bachelor,23,0.13,0.44,No,103136,"Communication, Kubernetes, Project Management",Medium,40,50,Startup,High,3.62,No,4.39,Declining
+AIJ-102073,DevOps Engineer,Media,India,PhD,1,0.64,0.97,No,76341,"Cloud Computing, Deep Learning, Azure, Leadership, Communication",Low,6,32,Medium,High,3.69,Yes,2.18,Declining
+AIJ-102081,Prompt Engineer,Government,India,High School,19,0.09,0.63,No,35143,"Data Visualization, Leadership, Communication, Kubernetes",High,41,59,Medium,Low,4.47,No,4.65,Growing
+AIJ-102094,Data Engineer,Finance,India,PhD,15,0.46,0.27,Yes,182250,"Prompt Engineering, Kubernetes, SQL, Project Management",High,33,44,Medium,Low,3.57,No,1.55,Declining
+AIJ-102107,HR Specialist,Manufacturing,India,Master,9,0.59,0.54,Hybrid,123223,"Machine Learning, Python, SQL",Low,-8,31,Startup,Moderate,4.66,No,4.42,Declining
+AIJ-102118,Machine Learning Engineer,Energy,India,Bachelor,3,0.12,0.28,Hybrid,48709,"Cybersecurity, Docker, Data Visualization",High,-5,40,Medium,Moderate,4.3,Yes,4.07,Growing
+AIJ-102138,Data Scientist,Technology,India,PhD,19,0.69,0.5,Yes,182099,"Excel, Cloud Computing, Machine Learning",Medium,17,53,Medium,Moderate,3.8,Yes,4.08,Growing
+AIJ-102141,Data Engineer,Finance,India,High School,8,0.72,0.79,Hybrid,120345,"Kubernetes, Python, Leadership",High,20,45,Enterprise,High,3.77,No,3.81,Declining
+AIJ-102146,Digital Marketer,Finance,India,Bachelor,8,0.78,0.32,Hybrid,218053,"Azure, Leadership, Data Visualization",Low,-4,53,Startup,High,3.05,No,4.17,Stable
+AIJ-102173,UX Designer,Energy,India,PhD,1,0.34,0.71,Yes,60520,"Docker, Data Visualization, Communication",Low,16,30,Medium,Moderate,2.34,Yes,4.14,Declining
+AIJ-102174,Cybersecurity Analyst,Education,India,High School,14,0.34,0.92,No,203209,"Data Visualization, Excel, Kubernetes, AWS",Low,1,47,Startup,High,3.04,Yes,2.97,Stable
+AIJ-102175,Financial Analyst,Media,India,Bachelor,17,0.93,0.55,Yes,39482,"Cloud Computing, TensorFlow, Deep Learning",Medium,2,49,Startup,Low,4.27,No,3.47,Declining
+AIJ-102186,Financial Analyst,Energy,India,PhD,6,0.33,0.42,Yes,114835,"Azure, AWS, Deep Learning, Excel, Data Visualization",High,-4,54,Medium,High,3.6,Yes,2.62,Declining
+AIJ-102218,Data Scientist,Government,India,PhD,12,0.79,0.61,No,109471,"PyTorch, Cybersecurity, Project Management, Leadership",Medium,26,45,Medium,Low,4.33,Yes,2.58,Stable
+AIJ-102233,Software Developer,Technology,India,PhD,25,0.08,0.47,Hybrid,203804,"Kubernetes, SQL, Cybersecurity",Low,19,39,Startup,High,2.06,No,4.3,Growing
+AIJ-102246,Financial Analyst,Government,India,PhD,17,0.14,0.57,Hybrid,91663,"Docker, PyTorch, Communication, Prompt Engineering, Excel, Cybersecurity",Medium,2,50,Medium,Moderate,4.93,No,1.69,Stable
+AIJ-102255,Software Developer,Media,India,Master,8,0.14,0.49,Hybrid,202241,"Data Visualization, Machine Learning, AWS, Kubernetes, SQL, Deep Learning",Medium,-9,52,Enterprise,Moderate,2.02,Yes,2.42,Stable
+AIJ-102271,Blockchain Developer,Finance,India,Master,24,0.15,0.75,No,133060,"Python, Cybersecurity, Excel",Low,29,60,Medium,Moderate,4.07,Yes,4.35,Growing
+AIJ-102278,Blockchain Developer,Transportation,India,Bachelor,12,0.82,0.76,Yes,128940,"Machine Learning, Docker, Python",Medium,24,49,Startup,High,3.56,Yes,2.75,Stable
+AIJ-102285,Financial Analyst,Energy,India,High School,22,0.39,0.96,No,94392,"PyTorch, Python, Data Visualization, Leadership, Excel",High,1,48,Enterprise,High,4.83,Yes,4.25,Stable
+AIJ-102297,Software Developer,Healthcare,India,PhD,5,0.21,0.44,Hybrid,161714,"Azure, Kubernetes, Prompt Engineering, Communication, Excel, PyTorch",Low,0,35,Startup,High,4.56,Yes,3.09,Declining
+AIJ-102314,Healthcare Analyst,Finance,India,High School,17,0.71,0.63,Hybrid,110263,"Python, Azure, Cybersecurity, Data Visualization",Medium,36,55,Startup,High,3.83,Yes,2.27,Declining
+AIJ-102316,Healthcare Analyst,Government,India,Bachelor,25,0.82,0.44,No,50152,"Cloud Computing, Cybersecurity, Data Visualization, Communication, Azure, Deep Learning",Medium,30,36,Medium,High,2.99,Yes,1.59,Stable
+AIJ-102324,IoT Specialist,Media,India,High School,7,0.6,0.62,Yes,138280,"Docker, Cloud Computing, Project Management",Low,18,44,Medium,High,4.5,Yes,4.9,Stable
+AIJ-102331,DevOps Engineer,Healthcare,India,Master,8,0.26,0.43,Yes,145577,"Kubernetes, SQL, Data Visualization",High,35,57,Startup,High,4.03,No,4.62,Stable
+AIJ-102337,UX Designer,Manufacturing,India,High School,16,0.21,0.62,Yes,188046,"Deep Learning, Communication, Leadership, SQL",Low,39,45,Enterprise,High,2.32,No,4.01,Growing
+AIJ-102350,Machine Learning Engineer,Finance,India,PhD,12,0.33,0.65,Hybrid,194933,"Machine Learning, Docker, Cybersecurity, Kubernetes",High,17,44,Startup,High,3.37,No,4.37,Declining
+AIJ-102409,Data Engineer,Technology,India,High School,19,0.79,0.22,Yes,170053,"Machine Learning, Docker, Python, Project Management, TensorFlow, Communication",Low,15,53,Startup,Moderate,2.44,No,4.11,Stable
+AIJ-102414,Business Analyst,Energy,India,Master,18,0.42,0.79,Hybrid,66152,"TensorFlow, PyTorch, Azure",High,40,55,Medium,High,2.31,No,1.94,Growing
+AIJ-102417,Cloud Architect,Technology,India,Master,6,0.71,0.39,Hybrid,154244,"Kubernetes, Leadership, Python, Communication",Medium,-5,60,Startup,Moderate,3.95,Yes,4.94,Growing
+AIJ-102425,AI Engineer,Government,India,High School,8,0.45,0.85,Yes,195742,"Cybersecurity, TensorFlow, AWS, Data Visualization, Kubernetes, Azure",Medium,32,54,Startup,High,3.06,Yes,2.63,Growing
+AIJ-102442,Financial Analyst,Retail,India,Master,17,0.07,0.2,No,59334,"Kubernetes, Excel, Leadership, Docker, Machine Learning",Medium,28,34,Startup,Moderate,2.81,No,1.42,Growing
+AIJ-102475,Data Scientist,Energy,India,Bachelor,6,0.55,0.43,Hybrid,198434,"Data Visualization, Cloud Computing, AWS, PyTorch, Excel",High,37,50,Medium,Moderate,2.56,No,1.78,Stable
+AIJ-102476,Business Analyst,Finance,India,Bachelor,8,0.1,0.93,Yes,178139,"Cloud Computing, Azure, Cybersecurity, Leadership, Python, AWS",High,39,56,Startup,Low,3.84,Yes,3.72,Stable
+AIJ-102481,Financial Analyst,Transportation,India,Bachelor,18,0.24,0.88,No,170887,"Python, SQL, Kubernetes",High,5,47,Medium,Moderate,4.91,Yes,3.98,Growing
+AIJ-102496,Blockchain Developer,Transportation,India,High School,0,0.92,0.7,Hybrid,200869,"Machine Learning, SQL, Python",High,19,31,Startup,High,2.65,No,3.52,Growing
+AIJ-102507,Healthcare Analyst,Government,India,Master,6,0.81,0.38,Hybrid,138977,"Python, Cybersecurity, Cloud Computing",High,1,36,Startup,Low,2.92,No,3.89,Declining
+AIJ-102514,DevOps Engineer,Transportation,India,Bachelor,22,0.8,0.77,Hybrid,46578,"Cloud Computing, Project Management, Prompt Engineering, Communication, Excel, Kubernetes",High,28,56,Medium,Moderate,4.62,No,3.13,Growing
+AIJ-102525,IoT Specialist,Transportation,India,High School,20,0.75,0.84,No,148155,"Python, Azure, Project Management",Medium,42,56,Enterprise,Moderate,4.6,Yes,1.39,Declining
+AIJ-102536,Cybersecurity Analyst,Education,India,PhD,11,0.1,0.81,Yes,119244,"AWS, Communication, SQL, Azure, TensorFlow, Data Visualization",High,35,51,Medium,Moderate,4.08,No,3.76,Declining
+AIJ-102544,IoT Specialist,Technology,India,Master,6,0.56,0.8,Hybrid,184819,"Machine Learning, Python, Communication, TensorFlow, Leadership, PyTorch",Medium,24,44,Medium,Low,2.43,No,2.64,Stable
+AIJ-102551,Machine Learning Engineer,Retail,India,Master,5,0.63,0.66,No,141121,"Python, AWS, Kubernetes, Docker, Machine Learning, PyTorch",High,44,39,Startup,Low,4.1,Yes,1.88,Growing
+AIJ-102561,DevOps Engineer,Finance,India,Bachelor,12,0.67,0.42,Yes,205278,"Prompt Engineering, SQL, Excel, Cloud Computing",Low,35,37,Startup,Low,2.84,No,2.99,Stable
+AIJ-102563,Software Developer,Media,India,Bachelor,16,0.52,0.23,Hybrid,151916,"AWS, Cybersecurity, TensorFlow, Leadership, Excel",High,34,41,Enterprise,Low,2.08,No,2.73,Growing
+AIJ-102581,Cloud Architect,Retail,India,PhD,13,0.36,0.8,Yes,196357,"Project Management, Docker, Cloud Computing",High,32,49,Medium,Moderate,2.33,Yes,1.14,Stable
+AIJ-102592,Prompt Engineer,Media,India,Bachelor,14,0.86,0.61,Hybrid,47978,"Kubernetes, Communication, Deep Learning",Low,2,50,Startup,High,3.81,No,4.71,Stable
+AIJ-102611,Robotics Engineer,Government,India,PhD,6,0.41,0.88,Hybrid,52080,"Data Visualization, Machine Learning, SQL, Excel, Leadership, Azure",Medium,36,41,Enterprise,Moderate,4.25,Yes,1.07,Stable
+AIJ-102615,Digital Marketer,Energy,India,High School,5,0.2,0.68,Yes,135261,"Communication, AWS, Kubernetes, Excel",Medium,9,44,Startup,Moderate,4.08,Yes,3.8,Growing
+AIJ-102637,Healthcare Analyst,Transportation,India,High School,1,0.51,0.35,Yes,33656,"Cloud Computing, PyTorch, Deep Learning, Machine Learning, Kubernetes",Medium,16,59,Startup,Low,3.24,No,3.4,Declining
+AIJ-102669,IoT Specialist,Media,India,PhD,5,0.68,0.73,Yes,115041,"Azure, Project Management, Data Visualization, Python, AWS, Leadership",Low,15,36,Medium,Moderate,2.99,No,4.43,Declining
+AIJ-102680,Robotics Engineer,Energy,India,Bachelor,2,0.43,0.95,Yes,169444,"Azure, Docker, Project Management, Cloud Computing, Machine Learning",Low,-2,36,Startup,High,4.8,No,4.24,Declining
+AIJ-102681,Teacher,Energy,India,Master,19,0.54,0.63,Hybrid,50226,"PyTorch, AWS, Deep Learning, Python, Excel, Data Visualization",Medium,24,34,Startup,Moderate,2.62,Yes,3.72,Declining
+AIJ-102690,AI Engineer,Finance,India,Master,0,0.16,0.22,No,121327,"Data Visualization, Azure, Prompt Engineering",Low,-2,53,Medium,Low,4.8,No,1.62,Stable
+AIJ-102718,UX Designer,Healthcare,India,PhD,11,0.32,0.94,No,156477,"Machine Learning, AWS, Deep Learning",Medium,10,32,Startup,Low,4.58,No,2.46,Declining
+AIJ-102728,Product Manager,Energy,India,PhD,7,0.17,0.59,Yes,85557,"Cloud Computing, TensorFlow, Prompt Engineering, AWS",High,0,36,Startup,Low,2.76,No,1.8,Growing
+AIJ-102738,Digital Marketer,Energy,India,PhD,7,0.15,0.98,No,46369,"Project Management, Communication, Cloud Computing, SQL, TensorFlow, Deep Learning",Low,34,41,Enterprise,High,4.41,Yes,4.02,Declining
+AIJ-102747,Data Scientist,Energy,India,High School,16,0.35,0.85,Yes,178604,"SQL, Azure, Excel, Python",Low,14,44,Startup,Low,3.73,No,3.5,Stable
+AIJ-102751,Robotics Engineer,Finance,India,PhD,14,0.08,0.99,No,99753,"PyTorch, Cloud Computing, Excel, Kubernetes, SQL, Communication",High,40,30,Startup,Moderate,4.61,Yes,4.22,Stable
+AIJ-102754,Software Developer,Retail,India,Bachelor,0,0.72,0.58,Yes,213912,"Azure, TensorFlow, Docker",Low,43,54,Medium,Moderate,3.77,No,1.04,Stable
+AIJ-102759,Digital Marketer,Energy,India,Bachelor,3,0.54,0.94,No,92075,"Leadership, Prompt Engineering, Cloud Computing, TensorFlow, Communication, Cybersecurity",Low,42,52,Enterprise,Moderate,2.76,No,4.01,Stable
+AIJ-102765,Cloud Architect,Technology,India,PhD,1,0.12,0.26,Yes,190576,"Machine Learning, AWS, Deep Learning",Medium,1,50,Startup,Moderate,3.76,No,4.59,Growing
+AIJ-102770,HR Specialist,Healthcare,India,Bachelor,17,0.1,0.25,Yes,83210,"Cybersecurity, Machine Learning, Communication, Docker, Prompt Engineering, Excel",Medium,15,55,Medium,High,3.19,Yes,1.85,Growing
+AIJ-102790,Cybersecurity Analyst,Transportation,India,PhD,8,0.13,0.79,Hybrid,41913,"Communication, Machine Learning, SQL",High,-5,40,Enterprise,Moderate,3.71,Yes,4.98,Stable
+AIJ-102791,Data Engineer,Finance,India,PhD,23,0.72,0.34,Yes,114440,"Prompt Engineering, Docker, SQL, Machine Learning",High,-9,53,Medium,Low,3.75,No,3.07,Stable
+AIJ-102795,Teacher,Technology,India,Master,14,0.84,0.84,No,150008,"Kubernetes, Communication, Project Management, SQL, Leadership, PyTorch",Low,12,37,Medium,High,3.82,No,4.58,Declining
+AIJ-102817,Financial Analyst,Retail,India,PhD,5,0.31,0.49,No,202965,"Data Visualization, AWS, Communication, Leadership",High,21,52,Enterprise,Low,2.87,No,4.27,Growing
+AIJ-102828,UX Designer,Media,India,High School,20,0.07,0.85,No,166993,"Machine Learning, Excel, TensorFlow, Data Visualization",High,1,55,Startup,High,2.67,No,3.85,Declining
+AIJ-102833,Blockchain Developer,Manufacturing,India,High School,2,0.73,0.77,Hybrid,73681,"Project Management, Excel, PyTorch, Cybersecurity",Medium,17,41,Startup,Moderate,3.36,Yes,4.72,Stable
+AIJ-102851,Data Scientist,Retail,India,Bachelor,6,0.81,0.84,Yes,61698,"SQL, Prompt Engineering, AWS, Kubernetes",Medium,38,31,Enterprise,High,2.16,Yes,4.28,Declining
+AIJ-102852,Healthcare Analyst,Media,India,Bachelor,5,0.31,0.62,No,127920,"Python, SQL, AWS, Azure, Prompt Engineering, Communication",Low,44,44,Medium,Moderate,3.57,No,2.34,Growing
+AIJ-102857,Cloud Architect,Retail,India,Bachelor,18,0.51,0.45,Hybrid,168286,"Deep Learning, Python, Kubernetes, Excel, AWS, TensorFlow",High,2,43,Enterprise,Moderate,3.23,Yes,2.84,Declining
+AIJ-102868,Blockchain Developer,Finance,India,PhD,16,0.35,0.74,Hybrid,178246,"Communication, Data Visualization, Deep Learning, AWS, Cloud Computing",High,43,60,Enterprise,High,4.25,Yes,1.66,Stable
+AIJ-102883,Blockchain Developer,Technology,India,Bachelor,23,0.11,0.64,Hybrid,144675,"Cloud Computing, Leadership, SQL, Communication",Medium,42,51,Medium,High,2.06,Yes,2.29,Growing
+AIJ-102895,Prompt Engineer,Healthcare,India,High School,9,0.44,0.56,No,82094,"Kubernetes, Prompt Engineering, Deep Learning, Azure",High,16,32,Enterprise,Moderate,4.66,No,1.35,Growing
+AIJ-102898,Data Engineer,Education,India,Master,8,0.33,0.3,Yes,163419,"Docker, Deep Learning, SQL, AWS, Project Management, TensorFlow",Medium,5,45,Medium,Low,2.8,No,1.37,Stable
+AIJ-102903,Data Scientist,Manufacturing,India,PhD,18,0.94,0.44,Yes,139195,"Leadership, Cybersecurity, Python",Medium,43,31,Enterprise,Moderate,3.93,No,3.63,Declining
+AIJ-102922,Teacher,Finance,India,Master,17,0.39,0.47,Yes,114862,"AWS, Project Management, Python, Machine Learning",Low,5,53,Enterprise,Low,2.36,Yes,3.02,Growing
+AIJ-102927,Digital Marketer,Energy,India,Bachelor,11,0.83,0.98,Yes,154531,"Excel, Python, AWS, Prompt Engineering",Medium,-3,35,Startup,Moderate,3.18,Yes,3.0,Growing
+AIJ-102944,Data Scientist,Government,India,High School,2,0.37,0.99,Yes,199530,"Data Visualization, Cloud Computing, Cybersecurity, Excel, Python, Machine Learning",High,40,42,Medium,Moderate,3.04,No,3.78,Declining
+AIJ-102963,Robotics Engineer,Retail,India,Master,0,0.79,0.27,Yes,115472,"Data Visualization, Cybersecurity, Cloud Computing, Machine Learning, Leadership",High,9,54,Medium,High,2.22,Yes,2.56,Growing
+AIJ-102965,Data Scientist,Retail,India,High School,3,0.21,0.73,Yes,108212,"Data Visualization, SQL, Project Management, Python, Cloud Computing, Leadership",Low,18,47,Medium,Moderate,4.89,Yes,4.6,Stable
+AIJ-102966,Teacher,Technology,India,Bachelor,2,0.38,0.23,Yes,70992,"TensorFlow, Machine Learning, Communication, Data Visualization",High,17,47,Medium,Moderate,3.37,No,2.53,Stable
+AIJ-102972,AI Engineer,Retail,India,High School,9,0.59,0.41,Yes,144249,"Leadership, TensorFlow, Data Visualization, SQL",Medium,-4,39,Startup,High,4.03,No,2.5,Stable
+AIJ-102983,HR Specialist,Education,India,PhD,22,0.63,0.81,No,104686,"Deep Learning, TensorFlow, Docker, AWS",Low,-7,37,Medium,High,2.43,No,3.19,Stable
+AIJ-102987,UX Designer,Healthcare,India,Master,14,0.55,0.73,Hybrid,166973,"Kubernetes, Project Management, Docker, PyTorch, Cloud Computing, Excel",Medium,12,60,Enterprise,High,4.4,No,1.79,Declining
+AIJ-102989,HR Specialist,Energy,India,PhD,3,0.47,0.75,Hybrid,126070,"AWS, Prompt Engineering, Azure, Docker, Communication",Low,33,59,Medium,Moderate,4.91,No,1.16,Stable
+AIJ-102990,Business Analyst,Retail,India,High School,13,0.13,0.58,Yes,139883,"Azure, Excel, Cloud Computing",Low,-3,31,Enterprise,Low,4.66,Yes,2.73,Stable
+AIJ-102995,Data Scientist,Education,India,Bachelor,0,0.62,0.27,Hybrid,202565,"Azure, Project Management, Cloud Computing, Cybersecurity, Kubernetes, Machine Learning",Medium,36,59,Enterprise,Moderate,4.54,Yes,1.27,Stable

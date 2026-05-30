@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>VGI GB Nagar Practical Page</title>
+  <style>
+    body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+    #header { text-align: center; padding: 20px; border-bottom: 1px solid #ccc; }
+    #header img { height: 80px; vertical-align: middle; }
+    #header span { font-size: 28px; font-weight: bold; margin-left: 20px; vertical-align: middle; }
+
+    nav { background: #333; color: white; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-size: 18px; }
+
+    section { display: none; padding: 30px; min-height: calc(100vh - 160px); }
+    #home { display: block; }
+
+    table { border-collapse: collapse; margin: auto; }
+    th, td { border: 1px solid black; padding: 10px; }
+    button { padding: 5px 10px; }
+  </style>
+  <script>
+    function showSection(id) {
+      document.querySelectorAll("section").forEach(sec => sec.style.display = "none");
+      document.getElementById(id).style.display = "block";
+    }
+  </script>
+</head>
+
+<body>
+
+  <!-- HEADER WITH LOGO AND COLLEGE NAME -->
+  <div id="header">
+    <!-- Placeholder Image — इसे अपने कॉलेज का Logo से बदलो -->
+    <img src="https://www.vgi.ac.in/images/new-logo-2025.png" alt="VGI GB Nagar Logo">
+    <span>Vishveshwarya Group of Institutions, GB Nagar</span>
+  </div>
+
+  <!-- NAVIGATION MENU -->
+  <nav>
+    <a href="#" onclick="showSection('home')">Home</a>
+    <a href="#" onclick="showSection('login')">Login</a>
+    <a href="#" onclick="showSection('register')">Registration</a>
+    <a href="#" onclick="showSection('catalogue')">Catalogue</a>
+    <a href="#" onclick="showSection('cart')">Cart</a>
+  </nav>
+
+  <!-- EXPERIMENT 1: Static Homepage -->
+  <section id="home">
+    <ul style="font-size:20px;line-height:1.8;">
+        <li>B.Tech(CSE)</li>
+        <li>B.Tech(CDS)</li>
+        <li>B.Tech(AI&ML)</li>
+        <li>B.Tech(CS)</li>
+        <li>B.Tech(ECE)</li>
+        <LI>B.Tech(ME)</LI>
+        <li>B.Tech(EE)</li>
+    </ul>
+    
+  </section>
+
+  <!-- EXPERIMENT 2: Login Page -->
+  <section id="login">
+    <h2>Experiment 2: Login Page</h2>
+    <form>
+      <label>Username:</label><br>
+      <input type="text"><br><br>
+      <label>Password:</label><br>
+      <input type="password"><br><br>
+      <button type="button">Login</button>
+    </form>
+  </section>
+
+  <!-- EXPERIMENT 3: Registration Page -->
+  <section id="register">
+    <h2>Experiment 3: Registration Page</h2>
+    <form>
+      <label>Name:</label><br><input type="text"><br><br>
+      <label>Email:</label><br><input type="email"><br><br>
+      <label>Password:</label><br><input type="password"><br><br>
+      <button type="button">Register</button>
+    </form>
+  </section>
+
+  <!-- EXPERIMENT 4: Catalogue Page -->
+  <section id="catalogue">
+    <h2>Experiment 4: Catalogue Page</h2>
+    <table cellpadding="10">
+      <tr><th>Cover</th><th>Author</th><th>Publisher</th><th>Price</th><th>Add to Cart</th></tr>
+      <tr>
+        <td><img src="https://via.placeholder.com/60x80" alt="Book 1"></td>
+        <td>Author A</td><td>Publisher X</td><td>₹300</td><td><button>Add</button></td>
+      </tr>
+      <tr>
+        <td><img src="https://via.placeholder.com/60x80" alt="Book 2"></td>
+        <td>Author B</td><td>Publisher Y</td><td>₹450</td><td><button>Add</button></td>
+      </tr>
+    </table>
+  </section>
+
+  <!-- CART PAGE -->
+  <section id="cart">
+    <h2>Cart Page</h2>
+    <table cellpadding="10">
+      <tr><th>Book</th><th>Price</th></tr>
+      <tr><td>Book 1</td><td>₹300</td></tr>
+      <tr><td>Book 2</td><td>₹450</td></tr>
+      <tr><th>Total</th><th>₹750</th></tr>
+    </table>
+  </section>
+
+</body>
+</html>

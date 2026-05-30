@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vishveshwarya Group of Institution</title>
+
+<style>
+    body { margin:0; font-family: Arial, sans-serif; }
+    header {
+        background:#003366; padding:15px; color:white;
+        display:flex; justify-content:space-between; align-items:center;
+    }
+    header h1 { margin:0; }
+    nav a {
+        color:white; margin-left:20px; text-decoration:none; font-weight:bold;
+    }
+    nav a:hover { text-decoration:underline; }
+
+    .hero {
+        background:#0059b3; color:white; padding:60px 20px; text-align:center;
+    }
+    .hero h2 { font-size:35px; margin:0 0 10px; }
+
+    .section { padding:40px 20px; max-width:1100px; margin:auto; }
+    .section h2 { text-align:center; margin-bottom:20px; }
+
+    .courses {
+        display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+        gap:20px;
+    }
+    .card {
+        border:1px solid #ccc; border-radius:8px; padding:20px; text-align:center;
+        box-shadow:0 0 8px rgba(0,0,0,0.1);
+    }
+
+    .gallery {
+        display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+        gap:10px;
+    }
+    .gallery img {
+        width:100%; border-radius:6px;
+    }
+
+    form {
+        max-width:500px; margin:auto;
+        display:flex; flex-direction:column; gap:15px;
+    }
+    input, textarea {
+        padding:10px; border:1px solid #aaa; border-radius:5px;
+    }
+    button {
+        padding:12px; border:none; background:#003366; color:white;
+        font-size:16px; border-radius:5px; cursor:pointer;
+    }
+    footer {
+        background:#003366; color:white; text-align:center; padding:15px; margin-top:40px;
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    <div style="display:flex; align-items:center; gap:10px;">
+        <img src="https://www.vgi.ac.in/images/new-logo-2025.png" alt="Logo of VGI" style="height:50px;">
+    <h1>Vishveshwarya Group of Institution</h1>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#courses">Courses</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+        <a href="#signin" style="background:white; color:#003366; padding:8px 15px; border-radius:5px; font-weight:bold;">Sign In</a>
+    </nav>
+</header>
+
+<section class="hero" id="home">
+    <h2>Welcome to Vishveshwarya Group of Institution</h2>
+    <p>Best Education • Expert Faculty • Modern Campus</p>
+</section>
+
+<section class="section" id="courses" style="background: linear-gradient(135deg, #a1c4fd, #c2e9fb); padding:60px 20px;">
+
+    <h2 style="text-align:center; color:#003366; margin-bottom:40px;">Our Courses</h2>
+
+    <!-- AKTU Programs -->
+    <h3 style="color:#003366; margin-bottom:20px;">AKTU Programs</h3>
+    <div class="courses" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px; margin-bottom:40px;">
+
+        <div class="card" style="background:#003366; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>B.Tech</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>4 Year Engineering Program</p>
+                <p>Subjects: Computer Science, Mechanical, Civil, Electrical</p>
+                <p>Eligibility: 12th with Science</p>
+            </div>
+        </div>
+
+        <div class="card" style="background:#0059b3; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>MBA</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>2 Year Management Program</p>
+                <p>Specializations: Marketing, Finance, HR, IT</p>
+                <p>Eligibility: Graduation in any field</p>
+            </div>
+        </div>
+
+        <div class="card" style="background:#0073e6; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>BBA</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>3 Year Management Program</p>
+                <p>Eligibility: 12th in any stream</p>
+            </div>
+        </div>
+
+        <div class="card" style="background:#0099ff; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>M.Tech</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>2 Year Advanced Engineering Program</p>
+                <p>Eligibility: B.Tech Graduation</p>
+            </div>
+        </div>
+
+        <div class="card" style="background:#1a75ff; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>LLB</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>3 Year Law Program</p>
+                <p>Eligibility: Graduation in any field</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- CCS Programs -->
+    <h3 style="color:#003366; margin-bottom:20px;">CCS Programs</h3>
+    <div class="courses" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px; margin-bottom:40px;">
+
+        <div class="card" style="background:#006666; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>BCA</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>3 Year Computer Applications Program</p>
+                <p>Eligibility: 12th in any stream</p>
+            </div>
+        </div>
+
+        <div class="card" style="background:#008080; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+            <h4>B.Sc (Agriculture)</h4>
+            <div class="card-content" style="max-height:0; overflow:hidden; transition:max-height 0.5s;">
+                <p>3 Year Agriculture Science Program</p>
+                <p>Eligibility: 12th with Science</p>
+            </div>
+        </div>
+
+        <div class="card" style="background:#009999; color:white; padding:20px; text-align:center; border-radius:10px; cursor:pointer; transition: transform 0.3s;">
+
+<section class="section" id="gallery">
+    <h2>Campus Gallery</h2>
+    <div class="gallery">
+        <img src="https://www.vgi.ac.in/images/banners/jagran-award.jpg">
+        <img src="https://www.vgi.ac.in/images/banners/award.jpg">
+        <img src="https://www.vgi.ac.in/images/banners/bfd.jpg">
+        <img src="https://www.vgi.ac.in/images/banners/mba.jpg">
+        <img src="https://www.vgi.ac.in/images/banners/btech.jpg">
+        <img src="https://www.vgi.ac.in/images/vgi-campus-banner.jpg">
+        <img src="https://www.vgi.ac.in/images/cyber-security.jpg">
+        <img src="https://www.vgi.ac.in/images/mjf-placement-min.jpeg">
+        <img src="https://www.vgi.ac.in/images/banners/award.jpg">
+        <img src="https://www.vgi.ac.in/images/banners/mba.jpg">
+    </div>
+</section>
+
+<section class="section" id="contact">
+    <h2>Contact Us</h2>
+    <form>
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea rows="4" placeholder="Your Message"></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+<footer>
+    © 2025 Vishveshwarya Group of Institution — All Rights Reserved.
+</footer>
+
+</body>
+</html>
