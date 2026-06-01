@@ -12,8 +12,8 @@
 
      # 📈 Daily Progress Log
 
-   * | Day | Topic Covered | Status |
+   * | 🗓️Day | 📖Topic Covered | ⚡Status |
    * | :--- | :--- | :--- |
    * | **Day 1** | Repo Setup & Initial Commits | Completed ✅ |
    * | **Day 2** | *[Datasets Analysis]* | In Progress 🔄️ |
-        
+   * | **Day 3** | *[Python Functions & Logic Building]* |     
