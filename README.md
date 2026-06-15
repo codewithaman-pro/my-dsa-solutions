@@ -16,4 +16,5 @@
    * | :--- | :--- | :--- |
    * | **Day 1** | Repo Setup & Initial Commits | Completed ✅ |
    * | **Day 2** | *[Datasets Analysis]* | In Progress 🔄️ |
-   * | **Day 3** | *[Python Functions & Logic Building]* |     
+   * | **Day 3** | *[Python Functions & Logic Building]* |
+   * | **Day 4** | *[Python Data Structure -> Lists, Tuples, and Dictionaries]* |   
