@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TOPIC: FUNCTIONS IN PYTHON(DAY 3)
 # def check_even_odd(number):
 #     if number % 2 == 0:
@@ -143,19 +143,19 @@
 # say_hello()
 
 
-def dynamic_decorator(func):
-    def wrapper(*args, **kwargs):
-        print('----------------------------------')
-        print('Decorator: Checking Arguments...')
-        result = func(*args, **kwargs)
-        print('Decorator: Execution complete!')
-        print('-----------------------------------')
-        return result
-    return wrapper
-@dynamic_decorator
-def greet_user(name, topic):
-    print(f'Hello {name}, welcome to {topic} class!')
-=======
+# def dynamic_decorator(func):
+#     def wrapper(*args, **kwargs):
+#         print('----------------------------------')
+#         print('Decorator: Checking Arguments...')
+#         result = func(*args, **kwargs)
+#         print('Decorator: Execution complete!')
+#         print('-----------------------------------')
+#         return result
+#     return wrapper
+# @dynamic_decorator
+# def greet_user(name, topic):
+#     print(f'Hello {name}, welcome to {topic} class!')
+
 # TOPIC: FUNCTIONS IN PYTHON(DAY 3)
 # def check_even_odd(number):
 #     if number % 2 == 0:
@@ -300,17 +300,16 @@ def greet_user(name, topic):
 # say_hello()
 
 
-def dynamic_decorator(func):
-    def wrapper(*args, **kwargs):
-        print('----------------------------------')
-        print('Decorator: Checking Arguments...')
-        result = func(*args, **kwargs)
-        print('Decorator: Execution complete!')
-        print('-----------------------------------')
-        return result
-    return wrapper
-@dynamic_decorator
-def greet_user(name, topic):
-    print(f'Hello {name}, welcome to {topic} class!')
->>>>>>> 94f85f2a0567bb90f96f5a3c35c06c97561fdafb
-greet_user('Nick', 'Python')
+# def dynamic_decorator(func):
+#     def wrapper(*args, **kwargs):
+#         print('----------------------------------')
+#         print('Decorator: Checking Arguments...')
+#         result = func(*args, **kwargs)
+#         print('Decorator: Execution complete!')
+#         print('-----------------------------------')
+#         return result
+#     return wrapper
+# @dynamic_decorator
+# def greet_user(name, topic):
+#     print(f'Hello {name}, welcome to {topic} class!')
+# greet_user('Nick', 'Python')

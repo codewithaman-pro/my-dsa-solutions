@@ -116,12 +116,4 @@ str = "aman sharma"
 ch = str[4]
 print(ch)
 '''
-void main()
-  {
-      float x = 123.76;
-      clrscr();
-      if(x == 123.76)     , final value - 123.75989;
-         printf("Ha Ha Ha Ha");
-      else
-         printf("He He He"); - output 
-  }
+ 

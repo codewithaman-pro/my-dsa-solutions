@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Analysis Case Study</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 40px; color: #334155; background-color: #f8fafc; }
+        .cover { background-color: #1e293b; color: white; padding: 60px; text-align: center; border-radius: 8px; margin-bottom: 40px; }
+        .cover h1 { font-size: 34px; margin-bottom: 10px; color: #f8fafc; font-weight: bold; }
+        .cover p { font-size: 18px; color: #cbd5e1; }
+        .toolkit { font-weight: bold; color: #38bdf8; margin-top: 20px; font-size: 16px; }
+        .slide { background: white; padding: 30px; margin-bottom: 30px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border-left: 6px solid #3b82f6; page-break-inside: avoid; }
+        h2 { color: #1e293b; font-size: 24px; margin-top: 0; border-bottom: 2px solid #e2e8f0; padding-bottom: 8px; }
+        ul { line-height: 1.8; padding-left: 20px; }
+        li { margin-bottom: 12px; font-size: 16px; }
+        .footer-text { text-align: center; margin-top: 50px; font-size: 14px; color: #64748b; font-style: italic; }
+        @media print {
+            body { background-color: white; margin: 0; }
+            .slide { page-break-after: always; box-shadow: none; border-left: 4px solid #3b82f6; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="cover">
+        <h1>End-to-End Data Analysis Case Study</h1>
+        <p>AI Automation Risk vs. Global Job Market Dynamics (2030 Predictions)</p>
+        <div class="toolkit">Toolkit: Python | Pandas | Matplotlib | Jupyter Notebook</div>
+    </div>
+
+    <div class="slide">
+        <h2>Step 1: Data Sanity & Preprocessing</h2>
+        <ul>
+            <li><b>Objective:</b> Establishing a clean baseline before performing statistical filtering or visual operations. "Garbage in, garbage out."</li>
+            <li><b>Missing Value Check:</b> Executed <code>df.isnull().sum()</code> across all 20 columns. Result: <b>0 Null Values</b>.</li>
+            <li><b>Duplicate Elimination:</b> Checked for overlapping records using <code>df.duplicated().sum()</code>. Result: <b>0 Duplicate Rows</b>.</li>
+            <li><b>Dataset Shape:</b> Verified the final clean baseline structure at exactly <b>(3000, 20)</b>.</li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2>Step 2: Global AI Risk Analysis</h2>
+        <ul>
+            <li><b>Methodology:</b> Grouped dataset by <code>Job_Title</code> and calculated the mathematical mean of <code>AI_Replacement_Risk</code>.</li>
+            <li><b>Visualization:</b> Generated a customized Coral-colored Bar Chart with a 45-degree label rotation for clear readability.</li>
+            <li><b>High Risk Zone:</b> Infrastructure roles like DevOps Engineers (0.569) and Cloud Architects (0.563) top the list due to automation deployment models.</li>
+            <li><b>Safe Zone:</b> Abstract problem-solving roles like UX Designers (0.460) and Data Scientists (0.470) remain highly secure.</li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2>Step 3: Salary vs. AI Risk Correlation</h2>
+        <ul>
+            <li><b>Methodology:</b> Generated a Purple Scatter Plot mapping <code>Average_Salary_USD</code> against <code>AI_Replacement_Risk</code>.</li>
+            <li><b>The Narrative:</b> The completely uniform distribution of data points proves that compensation is not a shield against automation.</li>
+            <li><b>The Takeaway:</b> AI risk cuts across income brackets simultaneously. Safety depends entirely on the nature of your skill, not the size of your paycheck.</li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2>Step 4: Regional Deep Dive (India Tech Market)</h2>
+        <ul>
+            <li><b>Methodology:</b> Isolated the Indian workforce demographic using Boolean indexing: <code>df[df['Country'] == 'India']</code>.</li>
+            <li><b>Data Slicing:</b> Extracted <b>279 rows</b> representing Indian professionals.</li>
+            <li><b>Premium Segment Filter:</b> Isolated high-earning individuals where <code>Salary > $100,000</code>, resulting in <b>184 elite rows</b>.</li>
+            <li><b>The Regional Twist:</b> In India, Data Engineers faced a higher relative automation risk score at <b>0.672</b>, followed by Cloud Architects at <b>0.590</b>.</li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2>Summary & Key Takeaways</h2>
+        <ul>
+            <li><b>Data Quality First:</b> Initial validation steps like null checks are non-negotiable for making downstream metrics credible.</li>
+            <li><b>Strategic Skill Pivot:</b> AI is rapidly automating infrastructure and standardized coding tasks. Career longevity requires shifting towards strategic logic.</li>
+            <li><b>Downstream Deliverables:</b> The high-value Indian market segment was exported using <code>.to_csv('High_Salary_India_Jobs.csv', index=False)</code> for future predictive modeling.</li>
+            <li><b>Professional Outlook:</b> Open to Data Analyst opportunities and data-driven workflow collaborations.</li>
+        </ul>
+    </div>
+
+    <div class="footer-text">Generated Automatically via Project Data Pipeline</div>
+
+</body>
+</html>
