@@ -4,8 +4,8 @@
  🎯 This repository serves as a personal log for my daily programming practice and problem-solving journey.
 
  ## 🛠️ Tech Stack & Tools
- *   **Language:** Python 🐉
- *   **Editor:** Visual Studio Code 💻
+ *   **Language:** Python 🐉 (Pandas,Matplotlib,Seaborn),MS Excel, Power BI,Tableau, MySQL, MS Word
+ *   **Editor:** Visual Studio Code 💻 , Jupyter Notebook
  *   **Platform:** GitHub 🪼
 
      ---
